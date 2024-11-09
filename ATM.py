@@ -1,6 +1,6 @@
 def get_balance(balance):
     return balance
-
+ 
 def withdraw_money(balance):
     try:
         user_amount = int(input("Enter amount to withdraw: "))
